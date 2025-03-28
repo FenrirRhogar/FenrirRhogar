@@ -1,4 +1,5 @@
 ## Hello there ⭐
+![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjRiMjV5djd0ZTN4enFtMjcwaHdjdjl6ODk2N3RrNW9iY2kzcTY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif)
 
 I am an undergraduate student of Electrical and Computer Engineering at the Technical University of Crete.
 
