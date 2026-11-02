@@ -1,40 +1,32 @@
-## Hello there
-![Robot Greeting](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjRiMjV5djd0ZTN4enFtMjcwaHdjdjl6ODk2N3RrNW9iY2kzcTY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif)
+## Ioannis Bouritis
 
-I am an **Electrical and Computer Engineering** undergraduate at the **Technical University of Crete**.
----
+Electrical and Computer Engineering undergraduate at the Technical University of Crete, based in Chania.
+I mostly write C++, Python and JavaScript/TypeScript.
 
-### 🛠 Tech Stack
+### Selected projects
 
-#### **AI / Machine Learning & Computer Vision**
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900.svg?style=flat&logo=nvidia&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+| Project | Description | Stack |
+| --- | --- | --- |
+| [omarchy360](https://github.com/FenrirRhogar/omarchy360) | Linux desktop control panel for a USB audio interface that has no official Linux software. Front end to a daemon whose USB protocol was reverse-engineered; I also contributed API extensions upstream to [douze](https://github.com/xenicle/douze). | QML, JavaScript, Python |
+| [omavst](https://github.com/FenrirRhogar/omavst) | Desktop panel and local HTTP daemon for managing audio plugins on Linux, including Windows plugins run through Wine. | Python, QML |
+| [MOSAIC](https://github.com/FenrirRhogar/MOSAIC) | Cross-platform sampler plugin with real-time audio processing, MIDI mapping and CI builds for Windows, macOS and Linux. | C++, JUCE, CMake |
+| [AxisEQ](https://github.com/FenrirRhogar/AxisEQ) | 24-band parametric equalizer plugin with a real-time spectrum analyzer and no allocations on the audio thread. | C++, JUCE |
+| [JazzMate](https://github.com/FenrirRhogar/JazzMate) | Reinforcement learning agent (DQN) with a custom Gymnasium environment that generates melodies over chord progressions and responds to MIDI input. | Python, Stable-Baselines3 |
+| [pms-system](https://github.com/FenrirRhogar/pms-system) | Project management web app split into user, team and task microservices behind an Nginx gateway, with JWT auth and role-based access. Deployed on GCP. | FastAPI, PostgreSQL, React, Docker |
+| [Generative-Artificial-Intelligence](https://github.com/FenrirRhogar/Generative-Artificial-Intelligence) | Neural signed distance functions for 3D surface reconstruction, and a DDPM trained to generate 64×64 images. | Python, PyTorch |
 
-#### **Full-Stack Development**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![JSX](https://img.shields.io/badge/JSX-61DAFB?style=flat&logo=react&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+Most of my other public repositories are university coursework.
 
-#### **Programming Languages**
-![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8.svg?logo=mathworks&logoColor=white)
+### Tech stack
 
----
+**Languages**<br>
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black) ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
 
-### 💻 Workspaces & Tools
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=flat&logo=pycharm&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white)
-[![Rider](https://img.shields.io/badge/Rider-000?logo=rider&logoColor=fff)](#)
+**Backend & web**<br>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 
+**AI / ML**<br>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white) ![Stable-Baselines3](https://img.shields.io/badge/Stable--Baselines3-333333?style=flat)
 
----
-
-### About My Repositories
-Most of my repositories are university projects and exercises. Please note that because they are for educational purposes, they may not be 100% correct.
+**Desktop, audio & tools**<br>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![JUCE](https://img.shields.io/badge/JUCE-8DC63F?style=flat&logo=juce&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white) ![Qt/QML](https://img.shields.io/badge/QML-41CD52?style=flat&logo=qt&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
