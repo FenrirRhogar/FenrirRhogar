@@ -1,6 +1,6 @@
 ## Ioannis Bouritis
 
-Electrical and Computer Engineering undergraduate at the Technical University of Crete, based in Chania.
+Electrical and Computer Engineering undergraduate at the Technical University of Crete.
 I mostly write C++, Python and JavaScript/TypeScript.
 
 ### Selected projects
